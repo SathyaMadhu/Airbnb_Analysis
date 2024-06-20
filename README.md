@@ -6,13 +6,17 @@ This Project aims to analyze and Visualize Airbnb data to provide user friendly 
 
 **Technologies employed:**
 
-•	**Data Extraction:** Mongo DB Atlas Interaction and Python Scripts 
+•	**Data Extraction:** Mongo DB Atlas Interaction and Python Scripts
+
 **•	Data Processing:** Python, Pandas
+
 **•	Dashboard:** Streamlit, Plotly (Live Geo Visualizations and other Charts) and **Power BI**
 
 **Python Libraries/Modules Engaged:**
       •	Import pymongo
+      
       •	From pymongo import mongoclient
+      
       •	Import streamlit as st
       •	Import pandas as pd
       •	From streamlit_option_menu import option_menu
