@@ -50,6 +50,7 @@ Numerous dropdown options to filter the data based on user interest
 •	Property Type Analysis
 
 •	Geo visualiztion
+
   
 
 **Conclusion:**
