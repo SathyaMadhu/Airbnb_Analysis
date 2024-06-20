@@ -2,24 +2,33 @@
 
 **Objective :**
 
-This Project aims to analyze and Visualize Airbnb data to provide user friendly and valuable insights into pricing variations, review score and location-based trends and data driven vision for the easy decision making. 
+This Project aims to analyze and Visualize Airbnb data to provide user friendly and Valuable Insights into Pricing Variations, Review Score and Location-based Trends and Data Driven Vision for the easy decision making. 
 
-Technologies employed:
+**Technologies employed:**
 
-•	Data Extraction:  Python Scripts and Git hub Cloning
+•	**Data Extraction:** Mongo DB Atlas Interaction and Python Scripts 
+**•	Data Processing:** Python, Pandas
+**•	Dashboard:** Streamlit, Plotly (Live Geo Visualizations and other Charts) and **Power BI**
 
-•	Data Processing: Python, Pandas
+**Python Libraries/Modules Engaged:**
+      •	Import pymongo
+      •	From pymongo import mongoclient
+      •	Import streamlit as st
+      •	Import pandas as pd
+      •	From streamlit_option_menu import option_menu
+      •	Import plotly.express as px
+      •	From bson.decimal128 import decimal128
+      •	Import seaborn as sns
+      •	Import matplotlib.pyplot as plt
+      •	From pil import image
+      •	Import mysql.connector as sql
+      •	From collections import counter
+      •	Import plotly.graph_objects as go
+      •	From plotly.subplots import make_subplots
 
-•	Database Integration: MySQL, mysql-connector-python
+**Phases** **Involved**:
 
-•	Dashboard: Streamlit, Plotly (Live Geo Visualizations and other Charts)
-Python Libraries Engaged:
-
-• PATHLIB • PANDAS • JSON • OS • MYSQL.CONNECTOR • REQUESTS • STREAMLIT • STREAMLIT_OPTION_MENU OPTION_MENU • PLOTLY.EXPRESS
-
-Steps Involved:
-
-Data Extraction : Python scripts were employed to clone and extract data/datasets from the Phonepe pulse Github repository
+Data Retrieval : Python scripts were employed to extract data/datasets from the MongoDB ATLAS
 
 Data Processing : Obtained data were processed for necessary cleaning and formatting, to attain the defined structure for further analysis.
 
