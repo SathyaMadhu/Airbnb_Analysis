@@ -6,7 +6,7 @@ This Project aims to analyze and Visualize Airbnb data to provide user friendly 
 
 **Technologies employed:**
 
-•	**Data Extraction:** Python Scripts employed to extract data from Json file
+•	**Data Extraction:** Python Scripts employed to extract data from JSON file
 
 **•	Data Processing:** Python, Pandas
 
@@ -26,7 +26,6 @@ This Project aims to analyze and Visualize Airbnb data to provide user friendly 
 •	From collections import counter
 •	Import plotly.graph_objects as go
 •	From plotly.subplots import make_subplots
-
 
 **Phases** **Involved**:
 
