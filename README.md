@@ -38,21 +38,20 @@ This Project aims to analyze and Visualize Airbnb data to provide user friendly 
 
 **Output Includes :**
 
-• Visually appealing and interactive dashboard using Streamlit and Plotly.
+•	Visually appealing and interactive dashboard using Streamlit and Plotly.
+•	Power BI Visuvaliztion for data driven Insights
 
-• Power BI Visuvaliztion for data driven Insights
+Numerous dropdown options to filter the data based on user interest
 
-• Numerous dropdown options to filter the data based on user interest
+•	Price vs Review Score Comparison
 
-  o	Price vs Review Score Comparison
-  
-  o	Top players of each country
-  
-  o	Property Type Analysis
-  
-  o	Geo visualiztion
+•	Top players of each country
+
+•	Property Type Analysis
+
+•	Geo visualiztion
   
 
 **Conclusion:**
 
-The Airbnb data visualization Dashboard in **Power BI** **and/or Streamlit** helps to understand trends, options and insights of various features of airbnb data. These Data driven insights helps in quick decision making
+The Airbnb data visualization Dashboard in **Power BI** **and/or Streamlit** helps to understand trends, options and insights of various Key features. These Data driven insights helps in quick decision making
