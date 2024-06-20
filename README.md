@@ -15,7 +15,6 @@ This Project aims to analyze and Visualize Airbnb data to provide user friendly 
 **Python Libraries/Modules Engaged:**
 •	Import streamlit as st
 •	Import pandas as pd
-
 •	From streamlit_option_menu import option_menu
 •	Import plotly.express as px
 •	From bson.decimal128 import decimal128
