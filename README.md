@@ -31,15 +31,12 @@ This Project aims to analyze and Visualize Airbnb data to provide user friendly 
 
 **Phases** **Involved**:
 
-Data Retrieval : Python scripts were employed to extract data/datasets from the MongoDB ATLAS
+**Data Retrieval :** Python scripts were employed to extract data/datasets from the MongoDB ATLAS
+**Data Pre-Processing :** Clean and prepare the dataset, addressing issues like missing values, duplicates, and data type conversions for accurate analysis.
+**Data Transformation :** The Processed and structured data were inserted into a MySQL database for efficient storage and retrieval capabilities.
+**Dashboard Creation1 :** Streamlit and Plotly libraries are used to create an interactive and visually appealing dashboard. This dashboard presents the data in efficient manner which enable users to explore the insights effectively
+**Dashboard Creation2 :** **Power BI Desktop** were Installed and employed to created visually interacting dashboard for the precise trends and Insights
 
-Data Processing : Obtained data were processed for necessary cleaning and formatting, to attain the defined structure for further analysis.
-
-Data Transformation : The Processed and structured data were inserted into a MySQL database for efficient storage and retrieval capabilities.
-
-Dashboard Creation : Streamlit and Plotly libraries are used to create an interactive and visually pleasing dashboard. This dashboard presents the data in efficient manner which enable users to explore the insights effectively
-
-Database Integration : The relevant data are fetched from the MySQL database and converted in to pandas dataframe using pandas libraries. Those dataframe were integrated into the streamlit dashboard, ensuring the displayed information is up-to-date and accurate.
 
 Output Includes :
 
