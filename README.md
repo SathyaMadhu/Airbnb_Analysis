@@ -29,8 +29,11 @@ This Project aims to analyze and Visualize Airbnb data to provide user friendly 
 **Phases** **Involved**:
 
 **Data Retrieval :** Python scripts were employed to extract data/datasets from the Json file
+
 **Data Pre-Processing :** Clean and prepare the dataset, treating issues like missing values, duplicates, and data type conversions for accurate analysis.
+
 **Dashboard Creation1 :** Streamlit and Plotly libraries are used to create an interactive and visually appealing dashboard. This dashboard presents the data in efficient manner which enable users to explore the insights effectively
+
 **Dashboard Creation2 :** **Power BI Desktop** were Installed and employed to created visually interacting dashboard for the precise trends and Insights
 
 
