@@ -36,22 +36,23 @@ This Project aims to analyze and Visualize Airbnb data to provide user friendly 
 
 **Dashboard Creation2 :** **Power BI Desktop** were Installed and employed to created visually interacting dashboard for the precise trends and Insights
 
-
-Output Includes :
+**Output Includes :**
 
 • Visually appealing and interactive dashboard using Streamlit and Plotly.
 
-• Vibrant data updates on the dashboard based on user choices.
+• Power BI Visuvaliztion for data driven Insights
 
-• Numerous dropdown options for users to select various facts and figures to display.
+• Numerous dropdown options to filter the data based on user interest
 
-  o	Transaction/Registered Users/AppOpens Analysis
+  o	Price vs Review Score Comparison
   
-  o	State/District/Pincode/Brand Specific Insights
+  o	Top players of each country
   
-  o	Yearwise Trend
+  o	Property Type Analysis
   
-  o	Top and Bottom Players
-Conclusion:
+  o	Geo visualiztion
+  
 
-The PhonePe Pulse data visualization Dashboard aims to provide valuable business insights and data-driven decisions by quick and easy visualization of critical information and market rich and grey identification.
+**Conclusion:**
+
+The Airbnb data visualization Dashboard in **Power BI** **and/or Streamlit** helps to understand trends, options and insights of various features of airbnb data. These Data driven insights helps in quick decision making
