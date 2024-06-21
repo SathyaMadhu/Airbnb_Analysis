@@ -61,8 +61,7 @@ Numerous dropdown options to filter the data based on user interest
            Top players of each country
            Property Type Analysis
            Geo visualization
-            
-    •	Room Type Insights
+           Room Type Insights
 
 **Conclusion:**
 
