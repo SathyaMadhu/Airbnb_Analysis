@@ -21,16 +21,11 @@ This Project aims to analyse and visualize a Comprehensive dataset of AIRBNB, a 
     •	From bson.decimal128 import decimal128
     •	Import seaborn as sns 
     •	Import matplotlib.pyplot as plt
-    
-    •	From pil import image
-    
-    •	Import json
-    
-    •	From collections import counter
-    
-    •	Import plotly.graph_objects as go
-    
-    •	From plotly.subplots import make_subplots
+        •	From pil import image
+        •	Import json
+        •	From collections import counter
+        •	Import plotly.graph_objects as go
+        •	From plotly.subplots import make_subplots
 
 
 **Phases** **Involved**:
