@@ -15,7 +15,6 @@ This Project aims to analyse and visualize a Comprehensive dataset of AIRBNB, a 
 **Python Libraries/Modules Engaged:**
 
     •	Import streamlit as st
-    
     •	Import pandas as pd
     
     •	From streamlit_option_menu import option_menu
