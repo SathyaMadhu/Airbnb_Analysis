@@ -1,5 +1,5 @@
 
-AIRBNB DATA ANALYSIS
+**AIRBNB DATA ANALYSIS**
 
 **PROJECT OBJECTIVE :**
 This Project aims to analyse and visualize a Comprehensive dataset of AIRBNB, a Popular Platform for lodging Rentals. This Analysis provide User friendly interactive dashboard for Valuable Insights which includes Pricing Variations, Review Score, Property type Analysis and Location-based Trends and Data Driven Vision for the easy decision making. 
