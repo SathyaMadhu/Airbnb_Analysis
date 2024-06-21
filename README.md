@@ -14,29 +14,29 @@ This Project aims to analyse and visualize a Comprehensive dataset of AIRBNB, a 
 
 **Python Libraries/Modules Engaged:**
 
-•	Import streamlit as st
-
-•	Import pandas as pd
-
-•	From streamlit_option_menu import option_menu
-
-•	Import plotly.express as px
-
-•	From bson.decimal128 import decimal128
-
-•	Import seaborn as sns
-
-•	Import matplotlib.pyplot as plt
-
-•	From pil import image
-
-•	Import json
-
-•	From collections import counter
-
-•	Import plotly.graph_objects as go
-
-•	From plotly.subplots import make_subplots
+    •	Import streamlit as st
+    
+    •	Import pandas as pd
+    
+    •	From streamlit_option_menu import option_menu
+    
+    •	Import plotly.express as px
+    
+    •	From bson.decimal128 import decimal128
+    
+    •	Import seaborn as sns
+    
+    •	Import matplotlib.pyplot as plt
+    
+    •	From pil import image
+    
+    •	Import json
+    
+    •	From collections import counter
+    
+    •	Import plotly.graph_objects as go
+    
+    •	From plotly.subplots import make_subplots
 
 
 **Phases** **Involved**:
