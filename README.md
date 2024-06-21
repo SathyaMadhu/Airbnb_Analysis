@@ -36,9 +36,7 @@ This Project aims to analyse and visualize a Comprehensive dataset of AIRBNB, a 
 
     o	Handling Missing Values
     o	Removing Duplicates
-    
     o	Datatype Conversion
-    
     o	Formatting
 
 **Dashboard Creation1 :** 
