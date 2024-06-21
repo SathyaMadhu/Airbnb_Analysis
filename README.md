@@ -12,7 +12,7 @@ This Project aims to analyse and visualize a Comprehensive dataset of AIRBNB, a 
 
 **Dashboard:** Streamlit, Plotly (Live Geo Visualizations and other Charts) and **Power BI**
 
-**Python Libraries/Modules Engaged:**
+**PYTHON LIBRARIES/MODULES ENGAGED:**
 
         •	Import streamlit as st
         •	Import pandas as pd
@@ -28,7 +28,7 @@ This Project aims to analyse and visualize a Comprehensive dataset of AIRBNB, a 
         •	From plotly.subplots import make_subplots
 
 
-**Phases** **Involved**:
+**PHASES** **INVOLVED**:
 
 **Data Retrieval :** Python scripts were employed to extract data/datasets from the JSON file
 
@@ -50,7 +50,7 @@ Streamlit and Plotly libraries are used to create an interactive and visually ap
 **Power BI Desktop** were Installed and employed to created visually interacting dashboard for the Precise Trends and Insights
 
 
-**Output Includes :**
+**OUTPUT INCLUDES :**
 
         Visually appealing and interactive dashboard using Streamlit and Plotly.
         Power BI Visuvaliztion for data driven Insights
@@ -63,6 +63,6 @@ Numerous dropdown options to filter the data based on user interest
            Geo visualization
            Room Type Insights
 
-**Conclusion:**
+**CONCLUSION:**
 
 The Airbnb data visualization Dashboard in **Power BI** **and/or Streamlit** helps to understand trends, options and insights of various Key features of Airbnb Dataset which helps  in quick decision making
