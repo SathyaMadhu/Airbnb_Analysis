@@ -52,22 +52,16 @@ Streamlit and Plotly libraries are used to create an interactive and visually ap
 
 **Output Includes :**
 
-
-•	Visually appealing and interactive dashboard using Streamlit and Plotly.
-
-•	Power BI Visuvaliztion for data driven Insights
-
+        Visually appealing and interactive dashboard using Streamlit and Plotly.
+        Power BI Visuvaliztion for data driven Insights
 
 Numerous dropdown options to filter the data based on user interest
 
-    •	Price vs Review Score Comparison
-    
-    •	Top players of each country
-    
-    •	Property Type Analysis
-    
-    •	Geo visualization
-    
+           Price vs Review Score Comparison
+           Top players of each country
+           Property Type Analysis
+           Geo visualization
+            
     •	Room Type Insights
 
 **Conclusion:**
