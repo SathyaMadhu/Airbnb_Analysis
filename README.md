@@ -73,15 +73,15 @@ Streamlit and Plotly libraries are used to create an interactive and visually ap
 
 Numerous dropdown options to filter the data based on user interest
 
-•	Price vs Review Score Comparison
-
-•	Top players of each country
-
-•	Property Type Analysis
-
-•	Geo visualization
-
-•	Room Type Insights
+    •	Price vs Review Score Comparison
+    
+    •	Top players of each country
+    
+    •	Property Type Analysis
+    
+    •	Geo visualization
+    
+    •	Room Type Insights
 
 **Conclusion:**
 
