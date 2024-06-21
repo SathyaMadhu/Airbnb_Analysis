@@ -67,5 +67,8 @@ Numerous dropdown options to filter the data based on user interest
 
 The Airbnb data visualization Dashboard in **Power BI** **and/or Streamlit** helps to understand trends, options and insights of various Key features of Airbnb Dataset which helps  in quick decision making
 
-![image](https://github.com/SathyaMadhu/Airbnb_Analysis/assets/163647581/819da051-10c9-40ec-b538-ae6772b26a67)
+
+![image](https://github.com/SathyaMadhu/Airbnb_Analysis/assets/163647581/d2743685-1d91-4122-8e82-70230a0643f5)
+![image](https://github.com/SathyaMadhu/Airbnb_Analysis/assets/163647581/b2e285ee-0690-49ac-b8eb-8f68e99e9584)
+
 
