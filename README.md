@@ -72,10 +72,17 @@ Streamlit and Plotly libraries are used to create an interactive and visually ap
 
 
 Numerous dropdown options to filter the data based on user interest
+
 •	Price vs Review Score Comparison
+
 •	Top players of each country
+
 •	Property Type Analysis
+
 •	Geo visualization
+
 •	Room Type Insights
+
 **Conclusion:**
+
 The Airbnb data visualization Dashboard in **Power BI** **and/or Streamlit** helps to understand trends, options and insights of various Key features of Airbnb Dataset which helps  in quick decision making
