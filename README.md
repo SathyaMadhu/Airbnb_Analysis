@@ -69,6 +69,7 @@ The Airbnb data visualization Dashboard in **Power BI** **and/or Streamlit** hel
 
 ![image](https://github.com/SathyaMadhu/Airbnb_Analysis/assets/163647581/35324791-32d8-4388-9750-3ee476914705)
 ![image](https://github.com/SathyaMadhu/Airbnb_Analysis/assets/163647581/39ad9a36-f296-4d43-afdd-102fabfd1e31)
+![Screenshot (34)](https://github.com/SathyaMadhu/Airbnb_Analysis/assets/163647581/f299643f-62f1-4150-b5a8-579c0964c418)
 ![Screenshot (37)](https://github.com/SathyaMadhu/Airbnb_Analysis/assets/163647581/a48c64df-5617-43dc-9de4-614b3ae4f868)
 
 
